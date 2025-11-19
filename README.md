@@ -1,10 +1,10 @@
-# 📊 Tableau Analytics Project
+#  Tableau Analytics Project
 
 A curated collection of Tableau dashboards and worksheets showcasing data modeling, LOD expressions, sets, parameters, joins, and interactive dashboard design using Superstore, Netflix, and other real datasets.
 
 ---
 
-## 🚀 Highlights
+##  Highlights
 - Analytical tables with combined datasets  
 - LOD-based customer order frequency histogram  
 - Top 50 customer segmentation using Sets  
@@ -15,7 +15,7 @@ A curated collection of Tableau dashboards and worksheets showcasing data modeli
 
 ---
 
-## 📈 Key Components
+##  Key Components
 
 ### **1. Sales & Profit Matrix**
 - Category/Sub-Category vs Region table  
@@ -55,7 +55,7 @@ A curated collection of Tableau dashboards and worksheets showcasing data modeli
 
 ---
 
-## 🛠 Tools & Skills
+##  Tools & Skills
 - Tableau Desktop  
 - Joins & Data Blending  
 - LOD Expressions  
@@ -66,7 +66,7 @@ A curated collection of Tableau dashboards and worksheets showcasing data modeli
 
 ---
 
-## 🎯 Purpose
+##  Purpose
 Showcases practical Tableau analytics—from data preparation to building interactive, user-friendly dashboards for real-world business insights.
 
 ---
